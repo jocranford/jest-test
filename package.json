@@ -1,0 +1,13 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "private": true,
+  "description": "Track down jest issue",
+  "devDependencies": {
+    "jest-cli": "^13.0.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
